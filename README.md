@@ -26,7 +26,7 @@ What are the most successful regions in terms of sales?
 
 How have sales trended over time, and what’s the forecast?
 
-
+The visualization  show the Sales performance overview and Sales trend & forecast
  1. Sales Performance Overview
 Shows top sales reps, total sales amount, average price per box, and key breakdowns by product category and region.
  2. Sales Trend & Forecast
